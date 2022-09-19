@@ -6,8 +6,21 @@
 ###### 2022/09/19課堂練習
 🏀🥇
 ![NKUST](nkust.png "高科大")
-- [ ] list
-- [x] list
+
+Emphasis, aka italics,with asterisks or underscores.
+Strong emphasis,aka bold.with **asterisks** or **underscores**.
+Combined emphasis with **asterisks or underscores**.
+Strikethrough uses two tildes.~~Scratch this.~~
+
+- [ ] todo list
+- [ ] 2nd things
 
 ```python
-print("趕火車喔?")
+s="Python syntax highlighting"
+ptint s
+```
+
+```js
+var s="JavaScript syntax highlighting"
+alert (s);
+```
