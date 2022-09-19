@@ -47,5 +47,5 @@ Colons can be used to align columns.
 
 | Markdown | Less | Pretty |
 | :- | :- | :- |
-| still | renders | nicely |
+| *still* | `renders` | **nicely** |
 | 1 | 2 | 3 |
