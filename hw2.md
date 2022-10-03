@@ -24,3 +24,5 @@ gantt
 
 
 ![NKUST](PERT圖.png "PERT圖")
+
+關鍵路徑:a1->a2->a4->a6->a9->a11
